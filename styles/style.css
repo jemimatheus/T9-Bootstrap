@@ -5,3 +5,19 @@
 a:hover{
   font-weight: bold;
 }
+
+.img_carousel{
+  object-fit: cover;
+  object-position: 0 20%;
+  width: 100%;
+  height: 65vh;
+  text-decoration-color: dimgray;
+
+
+}
+
+.color{
+  color:rgb(230, 172, 48);
+  text-decoration-style: double;
+  
+}
